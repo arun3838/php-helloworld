@@ -1,4 +1,4 @@
-# php-helloworld
+// php-helloworld
 <?php
-echo "Hello tamil ";
+echo "Hello Tamil && Ela ";
 ?>
