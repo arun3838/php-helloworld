@@ -1,3 +1,3 @@
 <?php
-echo "Hello Tamil && arun ";
+echo "Hello arun ";
 ?>
